@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  margin:5px 5px 5px 5px;
+}
+
+h2 {
+  margin-top: 2px;
+}
+
+.Main {
+  height:400px;
+  width:400px;
+}
+
+.title {
+  border-style: solid;
+  background-color: yellow;
+}
+
+.links {
+  border-style: double;
+  background-color:red;
+  margin:5px 0px 5px 0px;
+}
+
+.enter{
+  text-align: center;
+
+}
+
+.body {
+  background-color:rgb(245, 0, 0);
+  padding-bottom: 550px;
+}
+
+#right {
+  float:right;
+}
