@@ -11,6 +11,15 @@ h2 {
   margin-top: 2px;
 }
 
+iframe {
+  height:500px;
+  width:1000px;
+}
+
+.music {
+  text-align: center;
+}
+
 .Main {
   height:400px;
   width:400px;
@@ -18,7 +27,7 @@ h2 {
 
 .title {
   border-style: solid;
-  background-color: yellow;
+  background-color: white;
 }
 
 .links {
@@ -34,7 +43,7 @@ h2 {
 
 .body {
   background-color:rgb(245, 0, 0);
-  padding-bottom: 550px;
+  padding-bottom: 500px;
 }
 
 #right {
