@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  font-family:sans-serif;
 }
 
 h1 {
@@ -9,6 +10,14 @@ h1 {
 
 h2 {
   margin-top: 2px;
+  margin-bottom: 3px;
+  text-decoration: underline;
+
+}
+
+p {
+  font-size: 18px;
+  margin-top: 5px;
 }
 
 iframe {
@@ -18,11 +27,17 @@ iframe {
 
 .music {
   text-align: center;
+  padding-top: 300px;
+  font-size: 50px;
 }
 
 .Main {
   height:400px;
-  width:400px;
+  width:=600px;
+}
+
+.logo {
+  padding-left: 460px;
 }
 
 .title {
@@ -38,12 +53,59 @@ iframe {
 
 .enter{
   text-align: center;
-
+text-decoration: none;
 }
 
 .body {
   background-color:rgb(245, 0, 0);
   padding-bottom: 500px;
+}
+
+.big {
+  width:600px;
+  height:600px;
+  padding:20px 0px 0px 20px;
+}
+
+.characters {
+  padding-left: 20px;
+}
+
+.school {
+  float:left;
+}
+
+.school-link {
+  padding-left: 250px;
+}
+
+.school-pics {
+  padding:20px;
+  width:600px;
+  height:400px;
+}
+
+.metaverse {
+  float:right;
+  padding-top: 45px;
+  padding-right: 50px;
+}
+
+.metaverse-pics {
+  padding:20px;
+  width:500px;
+  height:300px;
+}
+
+.metaverse-link {
+float:right;
+padding-right: 400px;
+}
+
+.personas {
+  padding: 20px;
+  width:400px;
+  height:500px;
 }
 
 #right {
