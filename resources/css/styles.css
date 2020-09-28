@@ -32,12 +32,12 @@ iframe {
 }
 
 .Main {
-  height:400px;
-  width:=600px;
+  height:300px;
 }
 
 .logo {
-  padding-left: 460px;
+  padding-left: 600px;
+  height:600px;
 }
 
 .title {
@@ -53,12 +53,14 @@ iframe {
 
 .enter{
   text-align: center;
-text-decoration: none;
+  text-decoration: none;
 }
 
 .body {
   background-color:rgb(245, 0, 0);
-  padding-bottom: 500px;
+  padding: 2px 3px 500px 2px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .big {
@@ -104,10 +106,18 @@ padding-right: 400px;
 
 .personas {
   padding: 20px;
-  width:400px;
-  height:500px;
+  width:600px;
+  height:400px;
+}
+
+.song-pic {
+
 }
 
 #right {
   float:right;
+}
+
+#left {
+  padding-right: 100px;
 }
