@@ -1,6 +1,8 @@
 body {
   background-color: black;
   font-family:sans-serif;
+  background-image:url(https://steamuserimages-a.akamaihd.net/ugc/920291799814479551/9996ADDF37EBCB2DDB1E019C443DA24108610888/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+
 }
 
 h1 {
@@ -49,6 +51,7 @@ iframe {
   border-style: double;
   background-color:red;
   margin:5px 0px 5px 0px;
+  padding: 2px 3px 5px 2px;
 }
 
 .enter{
@@ -58,10 +61,11 @@ iframe {
 
 .body {
   background-color:rgb(245, 0, 0);
-  padding: 2px 3px 500px 2px;
+  padding: 2px 3px 850px 2px;
   margin-left: 10px;
   margin-right: 10px;
 }
+
 
 .big {
   width:600px;
@@ -78,6 +82,7 @@ iframe {
 }
 
 .school-link {
+  float: left;
   padding-left: 250px;
 }
 
@@ -110,8 +115,18 @@ padding-right: 400px;
   height:400px;
 }
 
-.song-pic {
+.fighting {
+  width:600px;
+  height:400px;
+}
 
+.classroom {
+  width:600px;
+  height:400px;
+}
+
+#yusuke {
+  padding-left: 350px;
 }
 
 #right {
